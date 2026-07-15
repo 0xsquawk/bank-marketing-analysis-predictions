@@ -1,6 +1,6 @@
 # Bank Marketing – EDA & Classification
 
-Practice project using the [UCI Bank Marketing dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing) to work through exploratory data analysis and compare classification algorithms for predicting whether a client subscribes to a term deposit.
+Project using the [UCI Bank Marketing dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing) to work through exploratory data analysis and compare classification algorithms for predicting whether a client subscribes to a term deposit.
 
 ## Business Questions
 
@@ -67,4 +67,4 @@ jupyter notebook bank_marketing.ipynb
 
 ## License
 
-For personal practice/learning purposes. Dataset usage subject to the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) terms.
+For personal learning purposes. Dataset usage subject to the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) terms.
